@@ -1,0 +1,115 @@
+header {
+
+    background-color:lightblue;
+
+}
+
+header img {
+
+    height:80px ;
+
+    width:80px  ;
+
+    border-radius:90% ;
+
+}
+
+body {
+
+    background-color:lightyellow ;
+
+}
+
+main img {
+
+    height:250px ;
+
+    width:250px ;
+
+}
+
+main h2 {
+
+    text-align:center ;
+
+}
+
+main h4 {
+
+    font-family:Vinera;
+
+    text-align:center ;
+
+    font-size:17px ;
+
+    color:black ;
+
+    
+
+}
+
+footer {
+
+    background-color:lightblue ;
+
+    height:80px ;
+
+}
+
+.city {
+
+    display:flex ;
+
+    flex-wrap:wrap ;
+
+    
+
+}
+
+.img {
+
+  display:inline-block ; 
+
+  border-radius:60% ;
+
+  width:30px ;
+
+  height:30px ;
+
+}
+
+.text {
+
+    text-align:center ;
+
+    font-size:25px ;
+
+}
+
+.img_akcii {
+
+    width:300px ;
+
+    border-radius:10% ;
+
+    height:200px ;
+
+    text-align:center ;
+
+}
+
+.text2 {
+
+    text-align:center ; 
+
+    font-family: Tahoma ;
+
+}
+
+.footer {
+
+    text-align:center ;
+
+    
+
+}
