@@ -1,0 +1,95 @@
+body {
+
+    background-color:lightyellow ;
+
+    font-family: Tahoma, sans-serif;
+
+    color: grey;
+
+    }
+
+header {
+
+    background-color:lightblue;
+
+    font-weight:600;
+
+   
+
+    }
+
+.logo{
+
+    height: 80px;
+
+    width: 80px;
+
+    border-radius: 50%;
+
+}
+
+nav {
+
+    border-top: 5px solid white;
+
+    border-bottom: 5px solid white;
+
+    display: flex;
+
+    justify-content: space-between;
+
+}
+
+.nav-link {
+
+    font-size: 24px;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    display: block;
+
+}
+
+    
+
+body h1 {
+
+    text-align:center ;
+
+    
+
+}
+
+footer {
+
+    background-color:lightblue ;
+
+    height: 100px;
+
+}
+
+footer h4 {
+
+   background-color:white ;
+
+}
+
+.photo1 {
+
+    height:270px ;
+
+    width:280px ;
+
+}
+
+.photo2 {
+
+    height:270px ;
+
+    width:280px ;
+
+}
